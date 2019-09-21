@@ -1,2 +1,2 @@
 # sql
-example of sql query
+This file contains example of sql table queries 
